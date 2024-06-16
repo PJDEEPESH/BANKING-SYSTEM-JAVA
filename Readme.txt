@@ -14,10 +14,4 @@ DBMS: MYSQL (APACHE XAMPP)
 
 ------------------------------------------------------------------------------------------
 For Promotions and Collaborations: 
-Email Us: tuitionstonight@gmail.com
--------------------------------------------------------------------------------------------
-Follow me on:
-Instagram: https://www.instagram.com/tuitionstonight/
-Instagram: https://www.instagram.com/muhammad_taha_azam/
-facebook: https://www.facebook.com/TT7.in/?modal=admin_todo_tour
-------------------------------------------------------------------------------------------
+Email Us: deepeshp.j.2004@gmail.com
